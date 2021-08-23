@@ -1,8 +1,8 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import App from './App';
-import Colors from './styles/settings/Colors';
-import Reset from './styles/Reset';
+import React from "react";
+import ReactDOM from "react-dom";
+import App from "./App";
+import Colors from "./styles/settings/Colors";
+import Reset from "./styles/Reset";
 
 ReactDOM.render(
   <React.StrictMode>
@@ -10,5 +10,5 @@ ReactDOM.render(
     <Colors />
     <App />
   </React.StrictMode>,
-  document.getElementById('root')
+  document.getElementById("root")
 );

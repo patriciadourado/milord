@@ -1,8 +1,8 @@
-import React from 'react';
-import { Provider } from 'react-redux';
-import CaseList from './components/CaseList';
+import React from "react";
+import { Provider } from "react-redux";
+import CaseList from "./components/CaseList";
 
-import store from './store'
+import store from "./store";
 
 function App() {
   return (
