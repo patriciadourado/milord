@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/milord/static/js/main.bf622db8.chunk.js",
-    "main.js.map": "/milord/static/js/main.bf622db8.chunk.js.map",
+    "main.js": "/milord/static/js/main.3577b526.chunk.js",
+    "main.js.map": "/milord/static/js/main.3577b526.chunk.js.map",
     "runtime-main.js": "/milord/static/js/runtime-main.a06dbda5.js",
     "runtime-main.js.map": "/milord/static/js/runtime-main.a06dbda5.js.map",
     "static/js/2.03149fcf.chunk.js": "/milord/static/js/2.03149fcf.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.a06dbda5.js",
     "static/js/2.03149fcf.chunk.js",
-    "static/js/main.bf622db8.chunk.js"
+    "static/js/main.3577b526.chunk.js"
   ]
 }
