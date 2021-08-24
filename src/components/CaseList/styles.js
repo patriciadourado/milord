@@ -20,15 +20,30 @@ export const Title = styled.h3`
 `;
 
 export const Caso = styled.p`
-  max-width: 400px;
+  /* max-width: 400px; */
   height: auto;
   font-size: 20px;
   font-family: "Orbitron", sans-serif;
   font-weight: 700;
   text-align: justify;
+  line-height: 1.3;
+  overflow-wrap: break-word;
+
   color: var(--color-yellow);
   margin-top: 20rem;
   margin-left: 20rem;
+  margin-right: 20rem;
+  padding: 5rem 20rem 0 0;
+
+  &::after{
+    content: '';
+    display: block;
+    height: 3px;
+    width: 50px;
+    background: var(--color-white);
+    position: absolute;
+    margin-top: 4px;
+  }
 `;
 
 export const InputTitle = styled.input`
